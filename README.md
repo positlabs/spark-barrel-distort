@@ -1,5 +1,7 @@
 # Barrel distortion in Spark AR
 
+![screenshot](./screenshot.jpg)
+
 ## Resources
 
 Learn more stuff by watching my [Spark AR Tutorials on YouTube!](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-)
